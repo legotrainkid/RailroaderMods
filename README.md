@@ -9,3 +9,6 @@ Planned features:
  - Small chance for random damage to cars delivered to the interchange
  - Cabeese reduce/negate damage when run on the rear of a train
  - (Maybe, and not for a while) Repair shops require loads of train parts in order to repair, would work similarly to the coal towers
+
+# Lego's Catastrophic Failure Mod
+When your steam engine runs out of water, it is instantly set to 0% condition. Includes setting to disable the mod.
